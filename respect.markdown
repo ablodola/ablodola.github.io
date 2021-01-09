@@ -7,6 +7,8 @@ image: /assets/Seleba-HERO-1600x600.png
 alt_title: Selaba BIZ
 sub_title: conversations about art, creativity and entrepreneurship
 ---
+<center>Artists share their creations and inspirations.</center> 
+
 <ul>
     {% for post in site.categories.respect %}
     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
