@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
+featured-image: /IMG_1544.jpeg
+featured-image-alt: SELABA
 date:   2021-01-09 07:02:38 +0700
 permalink: /welcome
 categories: jekyll update

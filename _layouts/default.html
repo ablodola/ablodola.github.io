@@ -7,6 +7,8 @@
 
     {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+    <link rel="shortcut icon" type="image/png" href="/favicon.png">
     <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -24,23 +26,43 @@
 
             {% if site.show_downloads %}
             <ul>
-                <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-                <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
+                <li><a href="index.html">home <strong>ZIP File</strong></a></li>
+                <li><a href="about.html">about <strong>TAR Ball</strong></a></li>
                 <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
             </ul>
             {% endif %}
+            {{ site.data.samplelist.docs_list_title }}
+
+            {% for item in site.data.samplelist.docs %}
+            <a href="{{ item.url }}">
+                <br />
+                {{ item.title }}
+            </a>
+            {% endfor %}
+            <br />
+            {{ site.data.samplelist2.docs_list_title }}
+
+            {% for item in site.data.samplelist2.docs %}
+            <a href="{{ item.url }}">
+                <br />
+                {{ item.title }}
+            </a>
+            {% endfor %}
+
         </header>
         <section>
 
             {{ content }}
 
         </section>
+
         <footer>
             {% if site.github.is_project_page %}
             <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
             {% endif %}
             <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
         </footer>
+
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}

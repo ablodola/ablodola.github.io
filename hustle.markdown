@@ -1,11 +1,14 @@
 ---
-layout: home
+layout: default
 lang: en
-title: home
+title: the hustle
+permalink: /hustle/
+image: /assets/Seleba-HERO-1600x600.png
+alt_title: Selaba BIZ
 sub_title: conversations about art, creativity and entrepreneurship
 ---
 <ul>
-    {% for post in site.posts %}
+    {% for post in site.categories.hustle %}
     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
       {% if post.featured-image %}{% include post-featured-image.html image=post.featured-image alt=post.featured-image-alt %}{% endif %}
       <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
