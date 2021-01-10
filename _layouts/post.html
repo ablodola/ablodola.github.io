@@ -4,14 +4,13 @@ layout: default
 
 <small>{{ page.date | date: "%-d %B %Y" }}</small>
 <h1>{{ page.title }}</h1>
-
-<p class="view">by {{ page.author | default: site.author }}</p>
-
 {% include post-featured-image.html image=page.featured-image alt=page.featured-image-alt %}
+{% include share-buttons.html %}
 
 {{content}}
 
 {% if page.tags %}
 <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
 {% endif %}
-
+<p class="view">by {{ page.author | default: site.author }}</p>
+{% include share-buttons.html %}

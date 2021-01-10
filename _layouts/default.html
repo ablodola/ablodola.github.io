@@ -57,12 +57,10 @@
         </section>
 
         <footer>
-            {% if site.github.is_project_page %}
-            <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-            {% endif %}
+            {% include search-google.html %}
+            <br />
             <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
         </footer>
-
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
@@ -75,5 +73,8 @@
       ga('send', 'pageview');
     </script>
     {% endif %}
+    {% include follow-buttons.html %}
+    <script type="text/javascript" src="/js/lightbox.js"></script>
+    <link rel="stylesheet" href="/css/lightbox.css">
 </body>
 </html>
