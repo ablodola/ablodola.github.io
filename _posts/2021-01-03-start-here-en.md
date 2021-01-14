@@ -9,10 +9,8 @@ date:   2021-01-04 14:00:05 +0700
 permalink: /start-here
 categories: hustle
 ---
-<body>
-<br />
-<p align="right">“*Find what you love and do it until it kills you*” 
-Charles Bukowski</align="right">
+“Find what you love and do it until it kills you” 
+Charles Bukowski
 
 It’s time to say goodbye to the telegraph and learn how to use the internet.
 
