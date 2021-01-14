@@ -1,10 +1,13 @@
 docs:
 
-- title: the hustle
-  url: hustle
+- title: Interviews
+  url: interviews
 
-- title: the love
-  url: love
+- title: Discover
+  url: discover
 
-- title: the respect
-  url: respect
+- title: Tips
+  url: tips
+
+- title: News
+  url: news
