@@ -2,8 +2,9 @@
 layout: home
 title: about
 permalink: about
+featured-image: /about-HERO.jpeg
+featured-image-alt: SELABA
 ---
-![SELABA](/assets/IMG_1544.jpeg)
 
 Selaba Biz is a blog where you’ll find interviews with artists living in Cambodia, conversations about creativity, technology and entrepreneurship.
 
