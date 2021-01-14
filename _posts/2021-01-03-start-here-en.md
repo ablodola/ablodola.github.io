@@ -9,7 +9,10 @@ date:   2021-01-04 14:00:05 +0700
 permalink: /start-here
 categories: hustle
 ---
-<blocquote>“Find what you love and do it until it kills you” _ Charles Bukowski<blocquote>
+<body>
+<br />
+<p align="right">“*Find what you love and do it until it kills you*” 
+Charles Bukowski</align="right">
 
 It’s time to say goodbye to the telegraph and learn how to use the internet.
 
@@ -30,3 +33,4 @@ This blog is my modest contribution to the art community in Cambodia. I intend t
 I’m not an artist myself, though I do have a “once up a time” background in music. I’m not an art critic either, though I do have sensibilities of my own, just like anyone else. In my eyes,  art brings people together. It’s a reminder of something we all have in common but find difficult to articulate. 
 
 My name is Selaba. I’m just a messenger. 
+</body>
