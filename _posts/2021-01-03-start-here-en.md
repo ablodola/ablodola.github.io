@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-featured-image: /assets/IMG_1544.jpeg
+featured-image: /IMG_1544.jpeg
 featured-image-alt: SELABA
 author: selaba
 title:  Start here
