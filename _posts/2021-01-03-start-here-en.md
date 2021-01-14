@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: en
-featured-image: /selaba-avatar.jpg
+featured-image: /about-HERO.jpeg
 featured-image-alt: SELABA
 author: selaba
 title:  Start here
@@ -29,3 +29,5 @@ This blog is my modest contribution to the art community in Cambodia. I intend t
 I’m not an artist myself, though I do have a “once up a time” background in music. I’m not an art critic either, though I do have sensibilities of my own, just like anyone else. In my eyes,  art brings people together. It’s a reminder of something we all have in common but find difficult to articulate. 
 
 My name is Selaba. I’m just a messenger. 
+
+![Portrait of Selaba](/assets/selaba-avatar.jpg)
