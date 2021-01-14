@@ -6,7 +6,7 @@ sub_title: conversations about art, creativity and entrepreneurship
 ---
 <p style="color:grey;font-size:30px;"><strong>THE LATEST</strong></p>      
 
-<ul>
+<html>
     {% for post in site.posts %}
     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
       {% if post.featured-image %}{% include post-featured-image.html image=post.featured-image alt=post.featured-image-alt %}{% endif %}
@@ -16,4 +16,4 @@ sub_title: conversations about art, creativity and entrepreneurship
 
     {{ post.excerpt }}
     {% endfor %}
-</ul>
+</html>

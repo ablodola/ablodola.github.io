@@ -9,7 +9,7 @@ sub_title: conversations about art, creativity and entrepreneurship
 ---
 <center><strong>INTERVIEWS WITH ARTISTS & CREATORS ABOUT ART & BUSINESS</strong></center>
 <br />
-<ul>
+<html>
     {% for post in site.categories.hustle %}
     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
       {% if post.featured-image %}{% include post-featured-image.html image=post.featured-image alt=post.featured-image-alt %}{% endif %}
@@ -19,4 +19,4 @@ sub_title: conversations about art, creativity and entrepreneurship
 
     {{ post.excerpt }}
     {% endfor %}
-</ul>
+</html>
