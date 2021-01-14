@@ -9,6 +9,7 @@ date:   2021-01-04 14:00:05 +0700
 permalink: start-here
 categories: hustle
 ---
+<br />
 It’s time to say goodbye to the telegraph and learn how to use the internet. That is, in a nutshell, the proverbial seed from which this blog germinated, a blog about art, creativity and business.
 
 It also stems from a compulsive need to find solutions and a desire to share what I have/know to help people turn their ideas into achievements. As far as this blog is concerned, I’m just someone interested in finding ways to help creative people grow as artists.   
