@@ -4,6 +4,8 @@ lang: en
 title: home
 sub_title: conversations about art, creativity and entrepreneurship
 ---
+<p style="color:grey;font-size:30px;"><strong>THE LATEST</strong></p>      
+
 <ul>
     {% for post in site.posts %}
     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
