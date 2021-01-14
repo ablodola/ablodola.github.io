@@ -1,7 +1,7 @@
 ---
 layout: home
 title: about
-permalink: /about/
+permalink: about
 ---
 ![SELABA](/assets/IMG_1544.jpeg)
 

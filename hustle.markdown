@@ -2,7 +2,7 @@
 layout: default
 lang: en
 title: the hustle
-permalink: /hustle/
+permalink: hustle
 image: /assets/Seleba-HERO-1600x600.png
 alt_title: Selaba BIZ
 sub_title: conversations about art, creativity and entrepreneurship
