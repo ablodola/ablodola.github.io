@@ -19,7 +19,8 @@ Cambodian artists, film makers, photographers, musicians and creatives of any ki
 Don't forget to check out the blog's intrudctory post, appropiratly named "[Start here][start-here]". 
 
 <h2>Contact</h2>
-Have news to to share? Or would like to request an interview? [Get in touch][Get-in touch]
+Have news to to share? Or would like to request an interview? Get in touch
+
 
 -----
 
@@ -46,7 +47,6 @@ Have news to to share? Or would like to request an interview? [Get in touch][Get
 <!--End mc_embed_signup-->
 
 [start-here]: https://www.selababiz.com/start-here
-[Get-in-touch]: https://us7.list-manage.com/contact-form?u=b6cc0db60ef84e726662af44c&form_id=839c28d602810ee1f991819971856949
 
 
 
