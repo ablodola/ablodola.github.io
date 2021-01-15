@@ -4,14 +4,13 @@ lang: en
 featured-image: /HERO-placeholder-posts.jpeg
 featured-image-alt: SELABA
 author: selaba
-title:  Selaba TIPS #1: taking your first steps
+title:  Selaba TIPS 1: taking your first steps
 date:   2021-01-04 14:00:05 +0700
 permalink: selaba-tips-1
 categories: tips
 tag: first steps
 ---
 <br />
-<h1>Selaba TIPS #1: taking your first steps</h1>
 It’s time to let go of the past and learn how to use the internet. If you are a creative of any kind today and you do not have a website or social media, then you might as well not exist.
 
 Don’t forget to read until the end for an extra bonus tip.
