@@ -10,7 +10,7 @@ sub_title: conversations about art, creativity and entrepreneurship
 <center><strong>TIPS & ADVICE FOR CREATORS</strong></center> 
 <br />
 <html>
-    {% for post in site.categories.tip %}
+    {% for post in site.categories.tips %}
     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
       {% if post.featured-image %}{% include post-featured-image.html image=post.featured-image alt=post.featured-image-alt %}{% endif %}
       <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
