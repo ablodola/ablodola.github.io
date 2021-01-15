@@ -7,8 +7,7 @@ image: /assets/Seleba-HERO-1600x600.png
 alt_title: Selaba BIZ
 sub_title: conversations about art, creativity and entrepreneurship
 ---
-<h2><strong>Sign up for the Selaba BIZ newsletter</strong></center></h2> 
-<br />
+<h2><strong>Sign up for the Selaba BIZ newsletter</strong></h2> 
 <p> Everything month, receive a roundup of articles about Cambodian art and khmer artists
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
