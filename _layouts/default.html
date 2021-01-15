@@ -1,6 +1,13 @@
 ﻿<!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
 <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YXJ2HPEX3N"></script>
+    <script>window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-YXJ2HPEX3N');</script>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -30,9 +37,6 @@
         </section>
 
         <footer>
-            {% include search-google.html %}
-
-
             {% if site.show_downloads %}
             <ul>
                 <li><a href="index.html">home <strong>ZIP File</strong></a></li>
@@ -58,15 +62,18 @@
             </a>
             {% endfor %}
             <br />
+            <br />
+            {% include search-google.html %}
+            <br />
             <!-- Begin Mailchimp Signup Form -->
             <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
             <style type="text/css">
-                         #mc_embed_signup {
-                             background: #fff;
-                             clear: left;
-                             font: 14px Helvetica,Arial,sans-serif;
-                         }
-                         /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+                #mc_embed_signup {
+                    background: #fff;
+                    clear: left;
+                    font: 14px Helvetica,Arial,sans-serif;
+                }
+                /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
                 We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
             </style>
             <div id="mc_embed_signup">
@@ -82,7 +89,6 @@
             </div>
 
             <!--End mc_embed_signup-->
-            <br />
             <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
         </footer>
     </div>
