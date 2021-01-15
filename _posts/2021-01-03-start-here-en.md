@@ -7,7 +7,7 @@ author: selaba
 title:  Start here
 date:   2021-01-04 14:00:05 +0700
 permalink: start-here
-categories: hustle
+tag: first steps
 ---
 <br />
 It’s time to say goodbye to the telegraph and learn how to use the internet. That is, in a nutshell, the proverbial seed from which this blog germinated, a blog about art, creativity and business.

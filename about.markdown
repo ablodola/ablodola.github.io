@@ -8,7 +8,7 @@ featured-image-alt: SELABA
 <h1>About</h1> 
 ![Hero image](/assets/about-HERO.jpeg)
 
-Selaba Biz is a blog where you’ll find interviews with artists living in Cambodia, conversations about creativity, technology and business.
+Selaba Biz is a blog where you’ll find interviews with artists living in Cambodia, conversations about creativity, technology and making a living.
 
 I’m interested in finding out what role technology has to play in encouraging the next generation of artist in Cambodia and what it means to be a creative in a global digital age.
 
@@ -17,10 +17,6 @@ Throughout these conversations, I hope to better understand the challenges, oppo
 Cambodian artists, film makers, photographers, musicians and creatives of any kind are all welcome to reach out (for interviews, announcements, etc.)
 
 Don't forget to check out the blog's intrudctory post, appropiratly named "[Start here][start-here]". 
-
-<h2>Contact</h2>
-Have news to to share? Or would like to request an interview? Get in touch
-
 
 -----
 
