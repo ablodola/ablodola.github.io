@@ -3,11 +3,11 @@ docs:
 - title: Interviews
   url: interviews
 
-- title: Discover
-  url: discover
-
 - title: Tips
   url: tips
+
+- title: Discover
+  url: discover
 
 - title: News
   url: news

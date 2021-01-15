@@ -18,6 +18,10 @@ Cambodian artists, film makers, photographers, musicians and creatives of any ki
 
 Don't forget to check out the blog's intrudctory post, appropiratly named "[Start here][start-here]". 
 
+<h2>Contact</h2>
+
+If you'd like to reach out for an interview or a guest post, just shoot us a message in the live chat or Facebook.
+
 -----
 
 

@@ -3,5 +3,8 @@ docs:
 - title: The latest
   url: index
 
-- title: ABOUT
+- title: About
   url: about
+
+- Title: Newsletter
+  url: newsletter
