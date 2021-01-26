@@ -4,14 +4,14 @@ lang: en
 featured-image: /HERO-placeholder-posts.jpeg
 featured-image-alt: SELABA
 author: selaba
-title:  Taking your first steps on the internet
+title:  This is why you should have a website
 date:   2021-01-15 14:00:05 +0700
 permalink: selaba-tips-number-one
 categories: tips
 tag: first steps
 ---
 <br />
-If you are a creative of any kind today and you do not have a website or social media, then you might as well not exist.
+If you are a creative of any kind today and you do not have a website or social media, then you might as well not exist. Or at the very least, you're a missing out on alot of exposure. In this article, I will explain why working towards having your own website is important and share some tips to help you get started.
 
 Don’t forget to read until the end for an extra bonus tip.
 
